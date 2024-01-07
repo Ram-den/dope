@@ -1,0 +1,26 @@
+{
+    "name": "Jennifer Bonilla",
+    "age": 56,
+    "address": {
+        "street": "Mccoy Park",
+        "city": "East Melissaborough",
+        "state": "Alaska",
+        "zip": "57560"
+    },
+    "contact": {
+        "phone": "202.792.9142",
+        "servicePhone": "800301341"
+    },
+    "birthday": "1969-09-05",
+    "ip": "26.114.10.79",
+    "foo": "bar",
+    "profile": {
+        "about": "Majority read beautiful energy. Hand reach site add purpose might.\nInclude rule foreign. Minute important movie maybe adult full base man. Factor food participant production high official.",
+        "bio": "Account act but today. Kid end chair.\nPainting which nearly low. Especially blue call recent guess close pay. There almost speak return study war compare."
+    },
+    "apiKey": "46ca5f9c547f6fda03b053ed768bbe812161260d36ca097684beb8b2acee1aa6",
+    "currency": [
+        "XOF",
+        "West African CFA franc"
+    ]
+}
