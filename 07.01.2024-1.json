@@ -1,0 +1,26 @@
+{
+    "name": "Nathan Frederick",
+    "age": 59,
+    "address": {
+        "street": "Morrison Mountain",
+        "city": "New Daniel",
+        "state": "New York",
+        "zip": "90951"
+    },
+    "contact": {
+        "phone": "420.816.5281",
+        "servicePhone": "800472231"
+    },
+    "birthday": "1966-26-06",
+    "ip": "171.121.28.160",
+    "foo": "bar",
+    "profile": {
+        "about": "Return free time give. Bar adult contain run where on. Third heart believe ok drop. Democrat health situation town.",
+        "bio": "Answer should every every language daughter. Kid sort phone we American. Alone west increase local despite agent."
+    },
+    "apiKey": "d839a832c393e3f4b3e67a48fe88d418a4ad58c49301a8c47496427a9ff23f27",
+    "currency": [
+        "AWG",
+        "Aruban florin"
+    ]
+}
