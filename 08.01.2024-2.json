@@ -1,0 +1,26 @@
+{
+    "name": "Marc Caldwell",
+    "age": 26,
+    "address": {
+        "street": "Jacob Route",
+        "city": "Marvinfort",
+        "state": "Virginia",
+        "zip": "54415"
+    },
+    "contact": {
+        "phone": "(500)336-4067x52044",
+        "servicePhone": "800506207"
+    },
+    "birthday": "1999-05-01",
+    "ip": "151.189.31.0",
+    "foo": "bar",
+    "profile": {
+        "about": "Concern of performance exactly state though improve. Likely thing international what miss for join.\nEvidence challenge from into. Station movement specific perhaps. Reality successful nearly two.",
+        "bio": "Development around body interesting available table travel.\nOpportunity whole expert person compare law bring. Work half kid part anyone where."
+    },
+    "apiKey": "5b121e0dd0df58825e89d9486fcb65b932e0ff9e7fb88a09212cc0cedc943343",
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}
