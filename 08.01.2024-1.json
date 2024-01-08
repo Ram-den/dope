@@ -1,0 +1,26 @@
+{
+    "name": "Jenna Collier",
+    "age": 8,
+    "address": {
+        "street": "Sarah Glen",
+        "city": "Mooretown",
+        "state": "Georgia",
+        "zip": "57452"
+    },
+    "contact": {
+        "phone": "337-357-5309",
+        "servicePhone": "800545265"
+    },
+    "birthday": "2017-07-04",
+    "ip": "108.170.27.224",
+    "foo": "bar",
+    "profile": {
+        "about": "Keep mission discuss weight offer. Fine poor size could. System also country participant drug.\nLet decide head lay check. Above ready worry.",
+        "bio": "Head growth price source economy weight. Within news easy institution lawyer. Small foot him Republican cell season.\nTest might like how high example management film. Able dark tough true apply."
+    },
+    "apiKey": "259a1f178977037dc02701f2b1a582dd158b294005eba8858a31d9f9c74b4fb9",
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}
