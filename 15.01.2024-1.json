@@ -1,0 +1,26 @@
+{
+    "name": "Diana Foster",
+    "age": 70,
+    "address": {
+        "street": "Holland Loaf",
+        "city": "Browntown",
+        "state": "Oklahoma",
+        "zip": "12491"
+    },
+    "contact": {
+        "phone": "388.214.8565",
+        "servicePhone": "800126382"
+    },
+    "birthday": "1955-30-09",
+    "ip": "174.201.160.5",
+    "foo": "bar",
+    "profile": {
+        "about": "Record agreement letter culture. Man enjoy skin institution none since. Could feel generation it interesting gun.",
+        "bio": "Give movie war third along executive east. Now another thousand side read build.\nDirection media sister appear fly life. Order term blood cultural. Easy similar hope low sister control."
+    },
+    "apiKey": "86493d3c93209395c715a3415275c1e9d8a5f7eb603eb58c7c66cd94fc824c44",
+    "currency": [
+        "PGK",
+        "Papua New Guinean kina"
+    ]
+}
