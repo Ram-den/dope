@@ -1,0 +1,26 @@
+{
+    "name": "Ivan Robinson",
+    "age": 79,
+    "address": {
+        "street": "Navarro Drive",
+        "city": "North Heatherbury",
+        "state": "Kansas",
+        "zip": "90022"
+    },
+    "contact": {
+        "phone": "3357796753",
+        "servicePhone": "800166843"
+    },
+    "birthday": "1946-25-02",
+    "ip": "93.15.167.41",
+    "foo": "bar",
+    "profile": {
+        "about": "Use year market. Husband plan fire firm fall range.\nPolitical usually decision action common. Society subject democratic fall various project.",
+        "bio": "Assume real exist. Political several interest work take southern.\nMillion decide performance somebody those hear. Ok final can plant herself."
+    },
+    "apiKey": "53d37e47cc078e4912a0029dd15240bd687f26523b628d9d646d3bf2a42376e4",
+    "currency": [
+        "SOS",
+        "Somali shilling"
+    ]
+}
