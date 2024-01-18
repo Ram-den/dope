@@ -1,0 +1,26 @@
+{
+    "name": "David Lee",
+    "age": 22,
+    "address": {
+        "street": "William Rapids",
+        "city": "East Robertchester",
+        "state": "Nevada",
+        "zip": "04636"
+    },
+    "contact": {
+        "phone": "001-605-476-2566x68597",
+        "servicePhone": "800893477"
+    },
+    "birthday": "2003-07-03",
+    "ip": "12.246.86.27",
+    "foo": "bar",
+    "profile": {
+        "about": "Direction structure serve provide world answer effort simple. Meet bag life state.\nFamily stuff near feel catch hot. War suffer certainly change use Mr with. Vote lead west meet continue she huge.",
+        "bio": "Level read bag student low. Artist mother put agency character guess themselves people.\nBlood but baby entire. Produce phone wife color exist someone environmental."
+    },
+    "apiKey": "d7a1481891b1df21a7eb7707fe64b99ab44aac35eca335b4d8b3a2037be8558c",
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}
