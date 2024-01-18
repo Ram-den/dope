@@ -1,0 +1,26 @@
+{
+    "name": "Robin Fleming",
+    "age": 103,
+    "address": {
+        "street": "Laura Mountains",
+        "city": "Brendaside",
+        "state": "Oklahoma",
+        "zip": "92660"
+    },
+    "contact": {
+        "phone": "(574)562-9406",
+        "servicePhone": "800976409"
+    },
+    "birthday": "1922-15-02",
+    "ip": "89.221.246.133",
+    "foo": "bar",
+    "profile": {
+        "about": "Student voice tonight list. None know fast sister simply. Somebody education cut charge history.\nFive evening deal real democratic deal. Same member by large. Social none political place.",
+        "bio": "Every serious method. Reality adult kid campaign.\nUntil possible indeed. Into always break expert project lose. Throughout suddenly contain against among game."
+    },
+    "apiKey": "b28b4bea8b6ae1ae45692231524df0180ad2e9105b1aef5c579c7c2a46866bcf",
+    "currency": [
+        "KYD",
+        "Cayman Islands dollar"
+    ]
+}
