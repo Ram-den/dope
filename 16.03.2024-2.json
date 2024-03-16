@@ -1,0 +1,26 @@
+{
+    "name": "Shawn Peterson",
+    "age": 81,
+    "address": {
+        "street": "Edwin Pike",
+        "city": "Bettyland",
+        "state": "Montana",
+        "zip": "77210"
+    },
+    "contact": {
+        "phone": "(360)321-6983x402",
+        "servicePhone": "800296770"
+    },
+    "birthday": "1944-10-05",
+    "ip": "160.159.245.190",
+    "foo": "bar",
+    "profile": {
+        "about": "Accept see direction building. Career remember area appear not turn wonder exist.\nWrong sister employee of. Else for far particularly other. Four red natural.",
+        "bio": "Building executive detail likely rich many sister.\nRealize its but food. Several process reduce."
+    },
+    "apiKey": "57571996d481163e631bfac7cd0663d323d3d276f22498eaae81556b91f9d60b",
+    "currency": [
+        "UAH",
+        "Ukrainian hryvnia"
+    ]
+}
