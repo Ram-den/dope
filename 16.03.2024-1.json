@@ -1,0 +1,26 @@
+{
+    "name": "Tricia Cooper",
+    "age": 116,
+    "address": {
+        "street": "Matthew Junctions",
+        "city": "West Kimberly",
+        "state": "South Dakota",
+        "zip": "23635"
+    },
+    "contact": {
+        "phone": "001-755-761-2686x34154",
+        "servicePhone": "800958572"
+    },
+    "birthday": "1909-17-07",
+    "ip": "3.247.167.179",
+    "foo": "bar",
+    "profile": {
+        "about": "Mr painting machine course least everyone. Up daughter against clearly plant.\nGun Democrat determine across call usually teacher return. Adult reflect assume example.",
+        "bio": "Tough information only always either yet her bad.\nStandard so key machine woman degree. Human firm white million single police. Since ground task beyond."
+    },
+    "apiKey": "e202e41aa3d39f41e40ebd326d035ad5ab49e1daa45a544beb5c738390b4d611",
+    "currency": [
+        "MDL",
+        "Moldovan leu"
+    ]
+}
