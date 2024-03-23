@@ -1,0 +1,26 @@
+{
+    "name": "Daniel Roberts",
+    "age": 14,
+    "address": {
+        "street": "Santana Light",
+        "city": "Port Jonathanmouth",
+        "state": "Wisconsin",
+        "zip": "75143"
+    },
+    "contact": {
+        "phone": "+1-883-732-9179x36541",
+        "servicePhone": "800813427"
+    },
+    "birthday": "2011-08-07",
+    "ip": "119.204.87.214",
+    "foo": "bar",
+    "profile": {
+        "about": "Forward hear minute sport government town method. Term guy challenge leave party direction. Tough nation edge than.\nInformation value protect. Tree whether green person game.",
+        "bio": "Country spring could too what. Inside include deep current during feel life staff.\nWork social major skin score skin. Feeling room it official up drive image. Type hear job."
+    },
+    "apiKey": "728b1958e917c234436420b1bb74d2af78857c7ccace2914e5f716bff17c9224",
+    "currency": [
+        "EUR",
+        "Euro"
+    ]
+}
