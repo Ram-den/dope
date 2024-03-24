@@ -1,0 +1,26 @@
+{
+    "name": "Christine Cole",
+    "age": 93,
+    "address": {
+        "street": "Martinez Centers",
+        "city": "West Anthony",
+        "state": "Indiana",
+        "zip": "54593"
+    },
+    "contact": {
+        "phone": "(285)937-9817x8859",
+        "servicePhone": "800618219"
+    },
+    "birthday": "1932-24-01",
+    "ip": "98.85.51.171",
+    "foo": "bar",
+    "profile": {
+        "about": "Everything couple direction talk. Need camera color. Reveal level begin break son police record hard.",
+        "bio": "Near question should election training. Phone American out system.\nAttorney method work likely per foot eight. Least time try top information production. Fund actually face PM."
+    },
+    "apiKey": "7cfb01a368386822846a926c3daa8bbad8b762146c7d5b93ce180de2bf040528",
+    "currency": [
+        "ZMW",
+        "Zambian kwacha"
+    ]
+}
