@@ -1,0 +1,26 @@
+{
+    "name": "Whitney Perez",
+    "age": 67,
+    "address": {
+        "street": "Ashley Estate",
+        "city": "Lake Robert",
+        "state": "New Mexico",
+        "zip": "03890"
+    },
+    "contact": {
+        "phone": "819.247.0908",
+        "servicePhone": "800921624"
+    },
+    "birthday": "1958-18-09",
+    "ip": "201.100.16.53",
+    "foo": "bar",
+    "profile": {
+        "about": "No source loss visit difficult student. Themselves book if fund here picture thousand. Article race various.\nLikely family fund could positive. Attorney different foreign interesting out go send.",
+        "bio": "Green phone concern his.\nStructure company door week law. What water once moment themselves.\nWant different spend drop leave difficult. Pretty rise sport not born."
+    },
+    "apiKey": "c5819897a695d36fc06887c618a9f00dc4ebbfe05812258c876f8f68d4cead12",
+    "currency": [
+        "XCD",
+        "Eastern Caribbean dollar"
+    ]
+}
