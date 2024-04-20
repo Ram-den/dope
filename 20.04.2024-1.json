@@ -1,0 +1,26 @@
+{
+    "name": "Diana Harrison",
+    "age": 45,
+    "address": {
+        "street": "Timothy Point",
+        "city": "Wallsbury",
+        "state": "Indiana",
+        "zip": "41088"
+    },
+    "contact": {
+        "phone": "372.352.6105x87670",
+        "servicePhone": "800317908"
+    },
+    "birthday": "1980-13-09",
+    "ip": "192.146.242.65",
+    "foo": "bar",
+    "profile": {
+        "about": "Another interview else garden eight allow. Collection position ahead hold much fire authority everyone. Themselves administration unit.",
+        "bio": "Energy strategy seem threat could like. Interview ground relate brother economy. Effort here assume cultural."
+    },
+    "apiKey": "b93bed90b453c5d5dd8c1134beb2ff9bd73908740c8bb16884b8869de6684e34",
+    "currency": [
+        "ALL",
+        "Albanian lek"
+    ]
+}
