@@ -1,0 +1,26 @@
+{
+    "name": "Michelle Barnett",
+    "age": 56,
+    "address": {
+        "street": "Washington Burgs",
+        "city": "Dianabury",
+        "state": "Wisconsin",
+        "zip": "68094"
+    },
+    "contact": {
+        "phone": "6552067633",
+        "servicePhone": "800206326"
+    },
+    "birthday": "1969-11-07",
+    "ip": "4.147.63.167",
+    "foo": "bar",
+    "profile": {
+        "about": "Already hospital call clearly east.\nFactor media million. Stage suggest might almost outside form. Sing data dream minute while red mother.",
+        "bio": "Recent be catch paper recognize life. Increase back above thank peace large.\nBase prove institution. A candidate myself letter recent. Agreement pressure machine high."
+    },
+    "apiKey": "0d75d36908b1541046b8171a6616c5d75fd4d3c155b9d5caabfd9714665e5b6b",
+    "currency": [
+        "JPY",
+        "Japanese yen"
+    ]
+}
