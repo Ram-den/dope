@@ -1,0 +1,26 @@
+{
+    "name": "Tim Williams",
+    "age": 65,
+    "address": {
+        "street": "Nunez Coves",
+        "city": "East Amyborough",
+        "state": "Kansas",
+        "zip": "20413"
+    },
+    "contact": {
+        "phone": "001-888-944-0999x420",
+        "servicePhone": "800089711"
+    },
+    "birthday": "1960-20-08",
+    "ip": "179.189.237.149",
+    "foo": "bar",
+    "profile": {
+        "about": "Population lose improve call detail benefit. Protect sign rise bit.\nCompare support since wind result full. Condition writer call concern today challenge energy. Water party may.",
+        "bio": "Candidate question Congress police Congress. Begin cold garden what."
+    },
+    "apiKey": "08b77ba872e852f71752e8da0ab928aea0b60cb677c498c3a3a619ca9af41841",
+    "currency": [
+        "UGX",
+        "Ugandan shilling"
+    ]
+}
