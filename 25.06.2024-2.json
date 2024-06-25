@@ -1,0 +1,26 @@
+{
+    "name": "Robert Miller Jr.",
+    "age": 116,
+    "address": {
+        "street": "Tanner Crossroad",
+        "city": "South Dianatown",
+        "state": "Arizona",
+        "zip": "42855"
+    },
+    "contact": {
+        "phone": "001-702-592-8380x50465",
+        "servicePhone": "800740782"
+    },
+    "birthday": "1909-19-09",
+    "ip": "178.202.240.125",
+    "foo": "bar",
+    "profile": {
+        "about": "Candidate home front east serious hit guess. Short different course process least mind along. Letter somebody number position single.",
+        "bio": "Front avoid cover author suffer. Someone task prove audience threat.\nCatch factor long lot.\nIf very score be drop. Institution term few. On land wear age agency computer."
+    },
+    "apiKey": "68c474a3a1a608dd56dbcc227b11e5d4231369ef9613de151b08cf6124cedbea",
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}
