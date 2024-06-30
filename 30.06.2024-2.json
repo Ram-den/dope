@@ -1,0 +1,26 @@
+{
+    "name": "Amanda Conley",
+    "age": 76,
+    "address": {
+        "street": "Moreno Inlet",
+        "city": "Christopherfurt",
+        "state": "Virginia",
+        "zip": "17959"
+    },
+    "contact": {
+        "phone": "001-278-439-9652",
+        "servicePhone": "800152380"
+    },
+    "birthday": "1949-09-09",
+    "ip": "31.36.75.122",
+    "foo": "bar",
+    "profile": {
+        "about": "Effect boy prepare evidence clear likely call item. National who hotel star. Debate practice somebody character after.",
+        "bio": "Night with worry never teach result future than. Teach article black during big lay program.\nBeyond body term. Receive this vote worker join beautiful."
+    },
+    "apiKey": "86cae86f91276bbd60dacbe84aaa8a1a29c3bea2f86709e077ed3880396edae8",
+    "currency": [
+        "VND",
+        "Vietnamese đồng"
+    ]
+}
