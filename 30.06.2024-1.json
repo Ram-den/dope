@@ -1,0 +1,26 @@
+{
+    "name": "Samuel Douglas",
+    "age": 6,
+    "address": {
+        "street": "Rodriguez Meadow",
+        "city": "Briannafort",
+        "state": "North Dakota",
+        "zip": "49863"
+    },
+    "contact": {
+        "phone": "(414)796-1797x0059",
+        "servicePhone": "800183981"
+    },
+    "birthday": "2019-15-11",
+    "ip": "152.152.156.68",
+    "foo": "bar",
+    "profile": {
+        "about": "Thought town begin ask inside college candidate. Visit particular book wonder budget law word.",
+        "bio": "Policy Democrat color none door less. Floor too card.\nRecently third treatment good whom window century. Probably respond list way need."
+    },
+    "apiKey": "2ef3e764c3c92365c0003fae625854d7d75c6226663c1b988a5577bc33e451f6",
+    "currency": [
+        "MNT",
+        "Mongolian tugrik"
+    ]
+}
