@@ -1,0 +1,26 @@
+{
+    "name": "Candace Montoya",
+    "age": 115,
+    "address": {
+        "street": "Dorothy Lodge",
+        "city": "East Christian",
+        "state": "Arkansas",
+        "zip": "64744"
+    },
+    "contact": {
+        "phone": "(293)431-4572x78570",
+        "servicePhone": "800640588"
+    },
+    "birthday": "1910-10-10",
+    "ip": "35.59.108.8",
+    "foo": "bar",
+    "profile": {
+        "about": "Table shake bring ok animal president.\nMovement traditional sometimes time to. Appear statement then vote performance foot may.\nArt push those even dream. None dark take.",
+        "bio": "Itself mouth arm board Democrat stock. News including feeling produce attack change. Power clear expert always serious effort. Family Mr themselves item region."
+    },
+    "apiKey": "bfc0160e53f6ec41962b4d6de4514eb89fc6d4535ff9864c72ba1353af001cc3",
+    "currency": [
+        "PHP",
+        "Philippine peso"
+    ]
+}
