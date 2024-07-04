@@ -1,0 +1,26 @@
+{
+    "name": "April Gentry",
+    "age": 65,
+    "address": {
+        "street": "Hughes Vista",
+        "city": "Ryanton",
+        "state": "Texas",
+        "zip": "90775"
+    },
+    "contact": {
+        "phone": "001-342-860-1020x8070",
+        "servicePhone": "800577346"
+    },
+    "birthday": "1960-24-04",
+    "ip": "33.81.124.162",
+    "foo": "bar",
+    "profile": {
+        "about": "Effect especially song hold.\nSure meeting watch realize action. Despite various office industry would quality.",
+        "bio": "Quickly tax side. News build describe compare their.\nStock probably send player good. Development subject hot near ready."
+    },
+    "apiKey": "6b4bc0165de362e6ca1ac7d6066a60fbef34ea11f99db5d0792e350bcc36eff5",
+    "currency": [
+        "KMF",
+        "Comorian franc"
+    ]
+}
