@@ -1,0 +1,26 @@
+{
+    "name": "Tony Hendricks",
+    "age": 69,
+    "address": {
+        "street": "Ashley Unions",
+        "city": "Kevinfurt",
+        "state": "Wyoming",
+        "zip": "54461"
+    },
+    "contact": {
+        "phone": "+1-857-874-3750x02758",
+        "servicePhone": "800338796"
+    },
+    "birthday": "1956-02-06",
+    "ip": "134.153.183.216",
+    "foo": "bar",
+    "profile": {
+        "about": "Stand staff feel interesting.\nSecurity think subject someone other ten. Knowledge black else personal weight cup religious through. Lose cause change capital visit enter note. Sing lawyer maybe.",
+        "bio": "Spend form level service. Employee mother suffer return the project structure. Improve find rest stand positive."
+    },
+    "apiKey": "295b17a4cf186ecd027147d10cae89b6b743658237d836c1524b92fe92becc54",
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}
