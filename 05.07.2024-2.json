@@ -1,0 +1,26 @@
+{
+    "name": "Tristan Cruz",
+    "age": 2,
+    "address": {
+        "street": "Christopher River",
+        "city": "Port Alfredburgh",
+        "state": "Delaware",
+        "zip": "28583"
+    },
+    "contact": {
+        "phone": "(981)620-7127",
+        "servicePhone": "800514076"
+    },
+    "birthday": "2023-03-02",
+    "ip": "94.50.59.240",
+    "foo": "bar",
+    "profile": {
+        "about": "Make election someone remain direction option. Debate similar consider along wide.\nMinute eye any stand skin. Attack around prepare movement.\nLate age owner debate fill detail. Section the wall.",
+        "bio": "Another word old strong. Wrong election learn career feeling fall. Service top protect radio.\nPlant just support free. Adult society memory hot type. Specific seven six."
+    },
+    "apiKey": "1407080bab0f0a06f770fa20057ddd03907bd2081aee4181a7346b8e47affdfe",
+    "currency": [
+        "HRK",
+        "Croatian kuna"
+    ]
+}
