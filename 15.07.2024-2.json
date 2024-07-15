@@ -1,0 +1,26 @@
+{
+    "name": "Victoria Patterson",
+    "age": 27,
+    "address": {
+        "street": "Michelle View",
+        "city": "Yoderburgh",
+        "state": "Ohio",
+        "zip": "05462"
+    },
+    "contact": {
+        "phone": "3555011012",
+        "servicePhone": "800221994"
+    },
+    "birthday": "1998-02-08",
+    "ip": "152.32.69.166",
+    "foo": "bar",
+    "profile": {
+        "about": "Arrive month fish another. Trade rise purpose information too. Issue painting government skin job general.\nEast gas yard always. Drug south fall run create.",
+        "bio": "Break just way lawyer enough product. Chair must want year. Big capital oil meeting son day job something."
+    },
+    "apiKey": "398022e4eea10e07e9c1256ecc664259bac8a9ddab08a298320986d555259cdf",
+    "currency": [
+        "LBP",
+        "Lebanese pound"
+    ]
+}
