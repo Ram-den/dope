@@ -1,0 +1,26 @@
+{
+    "name": "Tammy Rodriguez",
+    "age": 34,
+    "address": {
+        "street": "Leslie Loaf",
+        "city": "North David",
+        "state": "Montana",
+        "zip": "78598"
+    },
+    "contact": {
+        "phone": "+1-437-932-1341x15009",
+        "servicePhone": "800833856"
+    },
+    "birthday": "1991-01-10",
+    "ip": "212.208.105.239",
+    "foo": "bar",
+    "profile": {
+        "about": "Well least whether. Paper pressure wish interview together offer range alone.\nLanguage study pattern seven born. Open improve reflect person. Team but read almost among.",
+        "bio": "Son choice whom. Pm thank huge situation avoid for especially. Appear enter space.\nLetter my fear a strong control tree. Person table investment. Go economic year whole."
+    },
+    "apiKey": "b8b06446465d1e6f43416ca31ba7b2c96c2bfd30c1c8c78be950ace2a92e10a0",
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}
