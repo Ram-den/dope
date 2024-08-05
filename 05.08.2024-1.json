@@ -1,0 +1,26 @@
+{
+    "name": "Dustin Walters",
+    "age": 45,
+    "address": {
+        "street": "Shawn Plain",
+        "city": "Tiffanyton",
+        "state": "New Jersey",
+        "zip": "59268"
+    },
+    "contact": {
+        "phone": "(308)813-9451x7837",
+        "servicePhone": "800865376"
+    },
+    "birthday": "1980-28-10",
+    "ip": "6.208.140.97",
+    "foo": "bar",
+    "profile": {
+        "about": "Over yard race.\nInstead important state leave attack ago thought. Participant rather not mean news situation like. Fight ask another look born tonight draw wife.",
+        "bio": "Reduce house image bank rock American. Spend across run support treat part."
+    },
+    "apiKey": "739a60c700ea704351069b7b4cb816fe3d597cd27f2119aad49c8de65a800975",
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}
