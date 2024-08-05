@@ -1,0 +1,26 @@
+{
+    "name": "Holly Daniels",
+    "age": 52,
+    "address": {
+        "street": "Jennifer Pine",
+        "city": "Hernandezmouth",
+        "state": "Maryland",
+        "zip": "77283"
+    },
+    "contact": {
+        "phone": "(633)326-8701x09617",
+        "servicePhone": "800397936"
+    },
+    "birthday": "1973-03-03",
+    "ip": "201.43.235.82",
+    "foo": "bar",
+    "profile": {
+        "about": "Travel know fund indicate.\nScience certain create power campaign purpose page. Toward of save ball.",
+        "bio": "Success support step expert wrong. Huge those use least thank. Down official let relationship system bank somebody."
+    },
+    "apiKey": "f38c6816777c528f31677f08643005e731efd10e1533843f34c1faa9c3532eaf",
+    "currency": [
+        "UYU",
+        "Uruguayan peso"
+    ]
+}
