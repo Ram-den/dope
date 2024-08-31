@@ -1,0 +1,26 @@
+{
+    "name": "Patrick Powell",
+    "age": 15,
+    "address": {
+        "street": "Schmidt Shores",
+        "city": "Lake Davidborough",
+        "state": "Virginia",
+        "zip": "93469"
+    },
+    "contact": {
+        "phone": "001-770-294-4526x766",
+        "servicePhone": "800609723"
+    },
+    "birthday": "2010-08-07",
+    "ip": "174.36.245.7",
+    "foo": "bar",
+    "profile": {
+        "about": "Apply bit community. Appear lay heart beautiful hear worry long adult.\nInside deep life better main.\nLay dog there successful. Study bad success for church several level.",
+        "bio": "Will their rock pull. National discussion capital ten space hand leave charge."
+    },
+    "apiKey": "756f849022e84314ae8d932c9577a2ed6e744d8c9dc9b56bec476d93228d0af7",
+    "currency": [
+        "IQD",
+        "Iraqi dinar"
+    ]
+}
