@@ -1,0 +1,26 @@
+{
+    "name": "Pamela Landry",
+    "age": 43,
+    "address": {
+        "street": "Morales Tunnel",
+        "city": "West David",
+        "state": "Minnesota",
+        "zip": "59262"
+    },
+    "contact": {
+        "phone": "(828)854-3889x983",
+        "servicePhone": "800773823"
+    },
+    "birthday": "1982-01-03",
+    "ip": "137.174.148.23",
+    "foo": "bar",
+    "profile": {
+        "about": "Environment push others rich debate arrive mention company. Bar why point yet thought lot.",
+        "bio": "Town market scientist mean. Her this down Mrs. Stay voice interesting even center particular.\nLeast what case oil animal certainly. Less spend kitchen."
+    },
+    "apiKey": "0908cbdff6bd62da036a9b4e905022ac94ef99c6dd859bb2a3e0dd71068bf92d",
+    "currency": [
+        "ZAR",
+        "South African rand"
+    ]
+}
