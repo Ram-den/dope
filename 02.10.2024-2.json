@@ -1,0 +1,26 @@
+{
+    "name": "James Todd",
+    "age": 38,
+    "address": {
+        "street": "Michael Centers",
+        "city": "Whitebury",
+        "state": "Wyoming",
+        "zip": "48088"
+    },
+    "contact": {
+        "phone": "001-305-636-6752",
+        "servicePhone": "800542870"
+    },
+    "birthday": "1987-07-04",
+    "ip": "116.198.60.186",
+    "foo": "bar",
+    "profile": {
+        "about": "Adult however article way beat whose wind technology. Per class kitchen central offer. Foot think learn toward community scientist provide modern.",
+        "bio": "Executive soon with impact relate entire rise. Choice itself those traditional mean.\nStore city American. Performance another concern religious Mrs generation century shoulder. War dog data board."
+    },
+    "apiKey": "62ed18d1f55a33c2bf0074fd6d71189d37a8d4005689be6924d6323b0bdd2cd6",
+    "currency": [
+        "MNT",
+        "Mongolian tugrik"
+    ]
+}
