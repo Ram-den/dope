@@ -1,0 +1,26 @@
+{
+    "name": "James Martinez",
+    "age": 70,
+    "address": {
+        "street": "Sheppard Dale",
+        "city": "Glennland",
+        "state": "Nebraska",
+        "zip": "53521"
+    },
+    "contact": {
+        "phone": "914.783.4276x8431",
+        "servicePhone": "800699169"
+    },
+    "birthday": "1955-10-11",
+    "ip": "76.240.33.110",
+    "foo": "bar",
+    "profile": {
+        "about": "Value turn though thought condition off of. Foreign travel task wonder ten plant.",
+        "bio": "Rich value after consumer.\nBring theory me region. Carry stand sort theory small. Soon eight also trip.\nHuman sure good us various. Around think include prevent perform."
+    },
+    "apiKey": "27168f2c2120a8688dbcad12079c71f0b634bbafa8b6848dee4ee5eb9447a072",
+    "currency": [
+        "HNL",
+        "Honduran lempira"
+    ]
+}
