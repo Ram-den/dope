@@ -1,0 +1,26 @@
+{
+    "name": "Teresa Smith",
+    "age": 81,
+    "address": {
+        "street": "Phillip Light",
+        "city": "Phillipstad",
+        "state": "Delaware",
+        "zip": "89661"
+    },
+    "contact": {
+        "phone": "(870)671-6471",
+        "servicePhone": "800158157"
+    },
+    "birthday": "1944-05-07",
+    "ip": "105.135.211.114",
+    "foo": "bar",
+    "profile": {
+        "about": "Simple particularly everything people item region natural. Party meet huge today back value.\nDrop could store describe choose we article. Pick sense investment off.",
+        "bio": "Charge foreign project."
+    },
+    "apiKey": "09d357a9d9b04cdf168a99ace651ad3f78891cd93d19cadaea5da2e34ddabd55",
+    "currency": [
+        "QAR",
+        "Qatari riyal"
+    ]
+}
