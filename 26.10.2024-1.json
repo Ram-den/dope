@@ -1,0 +1,26 @@
+{
+    "name": "Nathan Durham",
+    "age": 1,
+    "address": {
+        "street": "Thomas Streets",
+        "city": "North Vincent",
+        "state": "New Jersey",
+        "zip": "28529"
+    },
+    "contact": {
+        "phone": "(226)945-1836",
+        "servicePhone": "800028600"
+    },
+    "birthday": "2024-02-04",
+    "ip": "194.187.28.71",
+    "foo": "bar",
+    "profile": {
+        "about": "Become street election kind market they stay. Throw allow itself local shoulder answer sport. Past just after seven other garden. On smile north.",
+        "bio": "Song say catch discuss bit. Each be difference theory commercial.\nAgain management decision religious process yeah system. Decision become green score join billion."
+    },
+    "apiKey": "fbeed05e8bf0d7f5f1fab91d4ee2919b9b8da422e7ac65fb92b04cffae56e225",
+    "currency": [
+        "CUC",
+        "Cuban convertible peso"
+    ]
+}
