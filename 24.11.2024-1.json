@@ -1,0 +1,26 @@
+{
+    "name": "Eric Mack",
+    "age": 51,
+    "address": {
+        "street": "Shannon Walk",
+        "city": "West Phillipbury",
+        "state": "Michigan",
+        "zip": "75911"
+    },
+    "contact": {
+        "phone": "278-710-3471x26563",
+        "servicePhone": "800281430"
+    },
+    "birthday": "1974-02-03",
+    "ip": "208.108.232.67",
+    "foo": "bar",
+    "profile": {
+        "about": "Bed national picture model voice. Audience coach seat strong present step production. Understand four trouble popular.\nTrouble popular such.",
+        "bio": "Building heart more instead special citizen quickly use.\nHand life country society factor shoulder. Type imagine bar pass someone product."
+    },
+    "apiKey": "49e4f794d39e26fbe9a148fd3a5e2a25cf783d1fd783328eeedd03d91c4bab61",
+    "currency": [
+        "SHP",
+        "Saint Helena pound"
+    ]
+}
