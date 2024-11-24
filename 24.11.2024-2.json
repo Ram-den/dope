@@ -1,0 +1,26 @@
+{
+    "name": "Melanie Carter",
+    "age": 60,
+    "address": {
+        "street": "James Views",
+        "city": "Lake Christopher",
+        "state": "Idaho",
+        "zip": "14886"
+    },
+    "contact": {
+        "phone": "927.884.4747x2382",
+        "servicePhone": "800911612"
+    },
+    "birthday": "1965-10-04",
+    "ip": "48.43.88.74",
+    "foo": "bar",
+    "profile": {
+        "about": "Nor positive place during change positive red.\nCentury whole early end spend. Fund station American.\nMinute possible strategy within threat challenge. Mother though whole.",
+        "bio": "Now well drop production need arm. Strategy policy pull responsibility. Team physical whether check image."
+    },
+    "apiKey": "aeac38ff4f1c659afd1af5d88b80b6d3f52c2db2f151a898f5064a178b9d3e87",
+    "currency": [
+        "KWD",
+        "Kuwaiti dinar"
+    ]
+}
