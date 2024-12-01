@@ -1,0 +1,26 @@
+{
+    "name": "Blake Morris",
+    "age": 51,
+    "address": {
+        "street": "Walker Plaza",
+        "city": "South Thomasborough",
+        "state": "Alaska",
+        "zip": "28147"
+    },
+    "contact": {
+        "phone": "(492)501-8262x2926",
+        "servicePhone": "800689723"
+    },
+    "birthday": "1974-26-11",
+    "ip": "49.147.179.224",
+    "foo": "bar",
+    "profile": {
+        "about": "Real sound do available including exist. Themselves likely stock report. Whatever instead third nice south walk city.\nHerself her add same evidence deal people. Ago food strategy do.",
+        "bio": "Plan get answer itself bring. Word none face eight force friend.\nNature lose for three."
+    },
+    "apiKey": "abd914de7750340b0e3df3a23773cfdbabee4693b2f2abbfdc6fd299aa2a9611",
+    "currency": [
+        "AOA",
+        "Angolan kwanza"
+    ]
+}
