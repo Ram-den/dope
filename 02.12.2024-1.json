@@ -1,0 +1,26 @@
+{
+    "name": "Angela Burton",
+    "age": 43,
+    "address": {
+        "street": "Meghan Lodge",
+        "city": "Jonathanshire",
+        "state": "Alaska",
+        "zip": "09664"
+    },
+    "contact": {
+        "phone": "+1-332-231-6024x247",
+        "servicePhone": "800670046"
+    },
+    "birthday": "1982-19-03",
+    "ip": "128.81.226.244",
+    "foo": "bar",
+    "profile": {
+        "about": "Listen put however close. Rate law most heavy should. Thought national attention hour imagine available.",
+        "bio": "Recently picture affect wish benefit hold mission.\nThrough out must. Fire adult similar speak.\nTry Congress herself bag.\nRequire owner less play interview. Believe lose cup traditional."
+    },
+    "apiKey": "2b95eac457f78fbfc553238dcef852eec4e6341393ae78c9868ad2e70a593c1f",
+    "currency": [
+        "TND",
+        "Tunisian dinar"
+    ]
+}
