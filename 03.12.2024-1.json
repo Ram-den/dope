@@ -1,0 +1,26 @@
+{
+    "name": "Christopher Rodriguez",
+    "age": 34,
+    "address": {
+        "street": "Atkinson Glens",
+        "city": "West Jeffrey",
+        "state": "Colorado",
+        "zip": "65682"
+    },
+    "contact": {
+        "phone": "418.706.9892x66532",
+        "servicePhone": "800818537"
+    },
+    "birthday": "1991-18-02",
+    "ip": "152.56.82.30",
+    "foo": "bar",
+    "profile": {
+        "about": "Result dark there cold organization. Bring probably church both few. Hard movie human military woman.\nSize city might agreement.\nOff tend decade prepare practice star. Remain play subject piece.",
+        "bio": "Leave remain machine even beat. Pretty choice cultural back take measure.\nSafe morning majority. Among my discover involve. Sit teacher degree bad continue."
+    },
+    "apiKey": "4cc433ea00ea8e190ed2f59ecca674fec29098f564f3dc0d464a58408f67d89c",
+    "currency": [
+        "BND",
+        "Brunei dollar"
+    ]
+}
