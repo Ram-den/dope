@@ -1,0 +1,26 @@
+{
+    "name": "Timothy Blake",
+    "age": 4,
+    "address": {
+        "street": "Mcgee Island",
+        "city": "Matthewchester",
+        "state": "Tennessee",
+        "zip": "92982"
+    },
+    "contact": {
+        "phone": "207-964-6739x0482",
+        "servicePhone": "800369087"
+    },
+    "birthday": "2021-11-11",
+    "ip": "41.235.132.128",
+    "foo": "bar",
+    "profile": {
+        "about": "Environment level although people both lawyer. Use song tend per friend current anyone knowledge.\nSome three last special. Agent eight time glass. Card together girl a.",
+        "bio": "Stay audience so shake together customer American. List it fast note available same also memory.\nWhole store land must. Care catch north enter provide quickly tax product."
+    },
+    "apiKey": "be11363468b8ed956930248206d96671706ddd8f55cca566eeecc2c032ed2080",
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}
