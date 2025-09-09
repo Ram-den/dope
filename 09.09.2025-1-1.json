@@ -1,0 +1,25 @@
+{
+    "name": "Patrick Alvarez",
+    "age": 2,
+    "address": {
+        "street": "Hall Courts",
+        "city": "Andreaside",
+        "state": "Michigan",
+        "zip": "48268"
+    },
+    "contact": {
+        "phone": "+1-653-280-9282x053",
+        "servicePhone": "800784532"
+    },
+    "birthday": "2023-23-05",
+    "ip": "82.171.44.203",
+    "foo": "bar",
+    "profile": {
+        "about": "Section provide policy trouble. Memory rise top represent.\nWriter security first day prove together population try. Respond wrong reason herself decision.",
+        "bio": "Above this physical from child explain west watch.\nMaintain develop maintain challenge along. Particular believe attention.\nMachine medical theory letter parent. Remember according there strategy no."
+    },
+    "currency": [
+        "SGD",
+        "Singapore dollar"
+    ]
+}
