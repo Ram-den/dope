@@ -1,0 +1,25 @@
+{
+    "name": "Mikayla Miller",
+    "age": 47,
+    "address": {
+        "street": "James Locks",
+        "city": "Port Samanthabury",
+        "state": "New York",
+        "zip": "57767"
+    },
+    "contact": {
+        "phone": "(976)344-1273x39004",
+        "servicePhone": "800389479"
+    },
+    "birthday": "1978-25-05",
+    "ip": "125.66.152.248",
+    "foo": "bar",
+    "profile": {
+        "about": "Training president oil seek suffer commercial move spring.\nFederal wrong lay under. Recognize plan line room need.",
+        "bio": "Organization other one individual. Eye these let tend simply fight rule apply. Pressure federal that say style."
+    },
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}
