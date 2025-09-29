@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Bond",
+    "age": 101,
+    "address": {
+        "street": "Brandy Grove",
+        "city": "East Amanda",
+        "state": "Maryland",
+        "zip": "92015"
+    },
+    "contact": {
+        "phone": "+1-204-579-2890x093",
+        "servicePhone": "800205106"
+    },
+    "birthday": "1924-12-09",
+    "ip": "58.19.22.16",
+    "foo": "bar",
+    "profile": {
+        "about": "Exactly child paper system card move. Hot yeah worker point first.\nSix east term voice. Medical personal car idea consumer all. Here tough great into. Remember campaign exist newspaper million set.",
+        "bio": "Red must far. Right may discussion success near well wide. Drive single new citizen law war.\nForm safe system student short. Movement hot dog sometimes cut certainly."
+    },
+    "currency": [
+        "TZS",
+        "Tanzanian shilling"
+    ]
+}
