@@ -1,0 +1,25 @@
+{
+    "name": "James Hopkins",
+    "age": 75,
+    "address": {
+        "street": "Buchanan Mountain",
+        "city": "Markburgh",
+        "state": "North Dakota",
+        "zip": "08006"
+    },
+    "contact": {
+        "phone": "(324)632-2418",
+        "servicePhone": "800317333"
+    },
+    "birthday": "1950-09-06",
+    "ip": "54.73.243.66",
+    "foo": "bar",
+    "profile": {
+        "about": "Education skill region participant they contain board. Arm avoid something policy consider available most. Television ready although.",
+        "bio": "College outside wish also doctor. Nor economic car nature affect. Method reality thank party.\nTrue together face. Would idea charge fire pressure able."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}

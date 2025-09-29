@@ -1,0 +1,25 @@
+{
+    "name": "Kelly Cain",
+    "age": 22,
+    "address": {
+        "street": "Bernard Manor",
+        "city": "Lake Ashleyburgh",
+        "state": "New Jersey",
+        "zip": "73912"
+    },
+    "contact": {
+        "phone": "+1-884-820-7414x2006",
+        "servicePhone": "800427843"
+    },
+    "birthday": "2003-16-11",
+    "ip": "84.74.158.170",
+    "foo": "bar",
+    "profile": {
+        "about": "Story after education spend need. Debate indicate father.\nCommercial vote remain street film and. Leader success movement every class opportunity. Happy it research hospital history.",
+        "bio": "Toward maybe adult discussion security per teach. Detail job figure home write political.\nBrother fill Mrs degree likely. Run short indeed light he. Series actually benefit assume tree."
+    },
+    "currency": [
+        "MKD",
+        "Macedonian denar"
+    ]
+}
